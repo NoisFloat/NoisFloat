@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en programar el primer videojuego ...XD
 - 🌱 Bonk
 - 💞️ Solo quiero ser feliz
-- 📫 Metas: De google a una granja de patos
+- 📫 Metas: Mañana
 - 😄 YO
 - ⚡ PIKACHU
 
