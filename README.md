@@ -1,10 +1,4 @@
-- 👋 Holaa!, Soy Nois
-- 👀 Estoy interesado en programar el primer videojuego ...XD
-- 🌱 Bonk
-- 💞️ Solo quiero ser feliz
-- 📫 Metas: Mañana
-- 😄 YO
-- ⚡ PIKACHU
+Si tan solo, a los cinco años, en lugar de juguetes, me hubieran dado un libro de C++
 
 <!---
 NoisFloat/NoisFloat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
