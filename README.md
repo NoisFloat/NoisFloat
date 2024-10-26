@@ -1,6 +1,6 @@
 # Desarrollador de Software Junior
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador de software junior con una sólida base en desarrollo web, de escritorio y móvil. Tengo experiencia en scripting con PowerShell y Bash, así como en la administración de servidores Ubuntu y Windows.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador de software junior con una sólida base en desarrollo web, de escritorio y móvil. Tengo experiencia en scripting con PowerShell y Bash.
 
 ## Habilidades
 
