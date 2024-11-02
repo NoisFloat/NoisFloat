@@ -7,8 +7,8 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador de software junior con un
 - **Desarrollo**: Web, desktop y móvil.
 - **Scripting**: PowerShell y Bash.
 - **Administración de servidores**: Ubuntu y Windows.
-- **Protocolos de red**: Conocimiento en DHCP, DNS, FTP, SSH, SFTP, TCP y UDP.
-- **Redes**: Habilidades en enrutamiento, direccionamiento, configuración de equipos y mantenimiento preventivo . Cisco
+- **Protocolos de red**: Conocimiento en DHCP, DNS, FTP, SSH, SFTP.
+- **Redes**: Habilidades en enrutamiento, direccionamiento, configuración de equipos y mantenimiento preventivo .
 
 ## Proyectos Académicos
 
